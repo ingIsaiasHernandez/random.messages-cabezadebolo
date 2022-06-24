@@ -13,8 +13,16 @@
   ],
   "author": "Isaias Hernandez",
   "license": "MIT",
-  "bin":{
-    "random-ms": "./bin/global.js"
+  "bin": {
+    "random-ms": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingIsaiasHernandez/random.messages-cabezadebolo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ingIsaiasHernandez/random.messages-cabezadebolo/issues"
+  },
+  "homepage": "https://github.com/ingIsaiasHernandez/random.messages-cabezadebolo#readme"
 }
